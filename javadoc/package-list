@@ -85,6 +85,7 @@ gov.usgs.quakemlgui
 gov.usgs.test
 gov.usgs.util
 gov.usgs.webstation.gui
+instrumentqa
 jcexceptions
 kmi.seismic
 kmi.utilities.dave
