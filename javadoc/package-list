@@ -105,7 +105,7 @@ net.alomax.util
 nl.knmi.orfeus
 nl.knmi.orfeus.seedlink
 org.trinet.jdbc.datatypes
-org.trinet.util
+org.trinet.util.old
 org.trinet.waveserver.rt
 request
 sdsu.io
