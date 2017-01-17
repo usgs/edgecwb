@@ -1,7 +1,6 @@
 FilterPicker
 anss
 channeldisplay
-doc
 edu.sc.seis.TauP
 edu.utah.seis.utility
 gnu.trove
@@ -44,7 +43,6 @@ gov.usgs.anss.fk
 gov.usgs.anss.gui
 gov.usgs.anss.iir
 gov.usgs.anss.indexutil
-gov.usgs.anss.inventory
 gov.usgs.anss.isi
 gov.usgs.anss.k2
 gov.usgs.anss.liss
@@ -60,7 +58,6 @@ gov.usgs.anss.route
 gov.usgs.anss.rtp
 gov.usgs.anss.seed
 gov.usgs.anss.seedlinkprobe
-gov.usgs.anss.setup
 gov.usgs.anss.smgetter
 gov.usgs.anss.test
 gov.usgs.anss.tsplot
@@ -68,15 +65,18 @@ gov.usgs.anss.util
 gov.usgs.anss.util2
 gov.usgs.anss.utility
 gov.usgs.anss.waveserver
-gov.usgs.anss.xml
 gov.usgs.cwbquery
+gov.usgs.detectionformats
 gov.usgs.earthquake.distribution
 gov.usgs.earthquake.quakewatch
 gov.usgs.edge.alarm
 gov.usgs.edge.config
 gov.usgs.edge.report
 gov.usgs.edge.snw
+gov.usgs.examples
+gov.usgs.hazdevbroker
 gov.usgs.landslides
+gov.usgs.landslides.gui
 gov.usgs.mail
 gov.usgs.msread.FixUp
 gov.usgs.quakeml.metadata
