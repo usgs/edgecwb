@@ -59,6 +59,7 @@ gov.usgs.anss.rtp
 gov.usgs.anss.seed
 gov.usgs.anss.seedlinkprobe
 gov.usgs.anss.smgetter
+gov.usgs.anss.ssdetector
 gov.usgs.anss.test
 gov.usgs.anss.tsplot
 gov.usgs.anss.util
