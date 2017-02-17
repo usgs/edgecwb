@@ -2,6 +2,7 @@ FilterPicker
 anss
 channeldisplay
 detection.usgs
+doc
 edu.sc.seis.TauP
 edu.utah.seis.utility
 gnu.trove
@@ -44,6 +45,7 @@ gov.usgs.anss.fk
 gov.usgs.anss.gui
 gov.usgs.anss.iir
 gov.usgs.anss.indexutil
+gov.usgs.anss.inventory
 gov.usgs.anss.isi
 gov.usgs.anss.k2
 gov.usgs.anss.liss
@@ -59,12 +61,14 @@ gov.usgs.anss.route
 gov.usgs.anss.rtp
 gov.usgs.anss.seed
 gov.usgs.anss.seedlinkprobe
+gov.usgs.anss.setup
 gov.usgs.anss.smgetter
 gov.usgs.anss.ssdetector
 gov.usgs.anss.test
 gov.usgs.anss.tsplot
 gov.usgs.anss.util
 gov.usgs.anss.util2
+gov.usgs.anss.utilinv
 gov.usgs.anss.utility
 gov.usgs.anss.waveserver
 gov.usgs.cwbquery
