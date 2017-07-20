@@ -73,6 +73,7 @@ gov.usgs.anss.utilinv
 gov.usgs.anss.utility
 gov.usgs.anss.waveserver
 gov.usgs.anss.xml
+gov.usgs.comcat
 gov.usgs.cwbquery
 gov.usgs.detectionformats
 gov.usgs.earthquake.distribution
