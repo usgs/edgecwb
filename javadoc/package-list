@@ -17,6 +17,7 @@ gnu.trove.set
 gov.usgs.adslserver
 gov.usgs.adslserver.utility
 gov.usgs.adslserver.webgui
+gov.usgs.adslserverdb
 gov.usgs.adslservergui
 gov.usgs.adslservertrans
 gov.usgs.alarm
