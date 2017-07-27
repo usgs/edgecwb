@@ -27,6 +27,7 @@ gov.usgs.anss.RRPUtil
 gov.usgs.anss.aftac
 gov.usgs.anss.cd11
 gov.usgs.anss.cd11send
+gov.usgs.anss.channelstatus
 gov.usgs.anss.config
 gov.usgs.anss.console
 gov.usgs.anss.cwb
@@ -45,6 +46,7 @@ gov.usgs.anss.filter
 gov.usgs.anss.filterpicker
 gov.usgs.anss.fk
 gov.usgs.anss.gui
+gov.usgs.anss.guidb
 gov.usgs.anss.iir
 gov.usgs.anss.indexutil
 gov.usgs.anss.inventory
