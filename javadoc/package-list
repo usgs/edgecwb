@@ -61,7 +61,6 @@ gov.usgs.anss.net
 gov.usgs.anss.picker
 gov.usgs.anss.portables
 gov.usgs.anss.q330
-gov.usgs.anss.route
 gov.usgs.anss.rtp
 gov.usgs.anss.seed
 gov.usgs.anss.seedlinkprobe
@@ -124,4 +123,5 @@ sdsu.io
 server
 subspacepreprocess
 test
+tests
 xmltomds
