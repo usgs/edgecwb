@@ -44,7 +44,6 @@ gov.usgs.anss.ewexport
 gov.usgs.anss.fetcher
 gov.usgs.anss.filter
 gov.usgs.anss.filterpicker
-gov.usgs.anss.fk
 gov.usgs.anss.gui
 gov.usgs.anss.guidb
 gov.usgs.anss.iir
