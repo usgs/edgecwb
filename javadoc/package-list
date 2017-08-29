@@ -28,7 +28,6 @@ gov.usgs.anss.cd11
 gov.usgs.anss.cd11send
 gov.usgs.anss.channeldisplay
 gov.usgs.anss.channelstatus
-gov.usgs.anss.config
 gov.usgs.anss.console
 gov.usgs.anss.cwb
 gov.usgs.anss.cwbqueryclient
