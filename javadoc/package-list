@@ -87,12 +87,14 @@ gov.usgs.examples
 gov.usgs.hazdevbroker
 gov.usgs.landslides
 gov.usgs.landslides.gui
+gov.usgs.locator
 gov.usgs.mail
 gov.usgs.msread.FixUp
 gov.usgs.quakeml.metadata
 gov.usgs.quakeml.parser
 gov.usgs.quakemlgui
 gov.usgs.test
+gov.usgs.traveltime
 gov.usgs.util
 gov.usgs.webstation.gui
 instrumentqa
