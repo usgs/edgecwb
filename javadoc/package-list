@@ -95,6 +95,7 @@ gov.usgs.quakeml.parser
 gov.usgs.quakemlgui
 gov.usgs.test
 gov.usgs.traveltime
+gov.usgs.traveltimeserver
 gov.usgs.util
 gov.usgs.webstation.gui
 instrumentqa
