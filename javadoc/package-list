@@ -90,6 +90,7 @@ gov.usgs.landslides.gui
 gov.usgs.locator
 gov.usgs.mail
 gov.usgs.msread.FixUp
+gov.usgs.processingformats
 gov.usgs.quakeml.metadata
 gov.usgs.quakeml.parser
 gov.usgs.quakemlgui
