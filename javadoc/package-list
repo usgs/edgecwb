@@ -65,6 +65,7 @@ gov.usgs.anss.seed
 gov.usgs.anss.seedlinkprobe
 gov.usgs.anss.setup
 gov.usgs.anss.smgetter
+gov.usgs.anss.smprobe
 gov.usgs.anss.test
 gov.usgs.anss.tsplot
 gov.usgs.anss.util
