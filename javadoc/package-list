@@ -4,6 +4,7 @@ detection.usgs
 doc
 edu.sc.seis.TauP
 edu.utah.seis.utility
+examples
 gnu.trove
 gnu.trove.function
 gnu.trove.impl
