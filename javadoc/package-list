@@ -97,6 +97,7 @@ gov.usgs.quakemlgui
 gov.usgs.test
 gov.usgs.traveltime
 gov.usgs.traveltime.session
+gov.usgs.traveltime.tables
 gov.usgs.traveltime.test
 gov.usgs.util
 gov.usgs.webstation.gui
