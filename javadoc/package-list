@@ -51,7 +51,6 @@ gov.usgs.anss.iir
 gov.usgs.anss.indexutil
 gov.usgs.anss.inventory
 gov.usgs.anss.isi
-gov.usgs.anss.k2
 gov.usgs.anss.liss
 gov.usgs.anss.metadata
 gov.usgs.anss.metadatagui
@@ -104,7 +103,6 @@ gov.usgs.webstation.gui
 instrumentqa
 jcexceptions
 kmi.seismic
-kmi.utilities.dave
 makeconfigserverxml
 net.alomax.freq
 net.alomax.freq.mkfilter
