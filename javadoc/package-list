@@ -53,6 +53,7 @@ gov.usgs.msread.FixUp
 gov.usgs.subspaceprocess
 gov.usgs.subspaceprocess.obsolete
 gov.usgs.util
+gov.usgs.utility
 jcexceptions
 kmi.seismic
 request
